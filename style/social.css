@@ -16,6 +16,7 @@ body {
   border-radius: 10px;
   width: 40%;
   background: var(--container-color);
+  margin: 0 auto;
 }
 .image img {
   width: 100px;
