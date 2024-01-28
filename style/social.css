@@ -73,6 +73,7 @@ p {
   text-align: center;
   margin-top: 20px;
   font-family: var(--default-font);
+  color: var(--default-color);
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
