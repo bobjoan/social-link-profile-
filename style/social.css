@@ -46,6 +46,9 @@ p {
   color: var(--default-color);
   font-family: var(--default-font);
   font-size: 14px;
+  font-weight: 600;
+  width: 80%;
+  margin: 0 auto;
 }
 .links li {
   border: 1px solid var(--border-color);
